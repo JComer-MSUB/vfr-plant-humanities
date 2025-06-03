@@ -18,3 +18,7 @@ Larches grow old, but not alone. Like most forest trees, the Larch is part of a 
 	   caption="This compares two seasons of the Tamarack, spring and winter.">
 <param ve-compare
 	   src="wc:Larix_decidua_Modrzew_europejski_2023-06-25_01.jpg">
+
+Text
+<param ve-iframe
+	   src="https://archive.org/details/northamericansyl03mich/page/n7/mode/1up">
